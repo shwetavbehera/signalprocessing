@@ -2,4 +2,4 @@ numpy
 matplotlib
 librosa
 scipy
-soundfile
+pandas
