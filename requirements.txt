@@ -3,3 +3,5 @@ matplotlib
 librosa
 scipy
 pandas
+scikit-image
+opencv-python
